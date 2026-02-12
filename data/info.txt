@@ -1,0 +1,26 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Miguel Angel Hernández Ochoa
+Matrícula: A00830949
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Al ser parte del plan de estudios de la carrera, tomo este curso de análisis de ciencia de datos con mucho entusiasmo porque quiero
+aprender acerca del mundo del procesamiento de datos gracias a las bastas herramientas existentes
+
+¿Qué espero aprender?
+Espero nutrir mi conocimiento profundizando en la amplitud de la funcionalidad de las librerías como Pandas, Tensorflow, Matplotlib,
+Seaborns, así como en los comandos enseñados en clase y el uso de SQL para poder sacarle el mejor provecho a datasets proveídos 
+con el objetivo principal de continuar mi trayectora estudiantil y saber como poder emplear estas herramientas en el ámbito
+profesional y en próximos proyectos de la carrera.
+
+Herramientas que ya conozco:
+- Pandas
+- Matplotlib
+
+Herramientas nuevas para mí:
+- Terminal desde GitBash
+- AWK
+- Perl
+- Comandos avanzados desde la terminal
