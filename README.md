@@ -1,4 +1,4 @@
-# TC2004B - Análisis de Cientia de datos
+# TC2004B - Análisis de Ciencia de datos
 
 **Nombre:** Miguel Angel Hernández Ochoa
 
