@@ -59,6 +59,12 @@ python -m venv tc2004b_env
 tc2004b_env\Scripts\Activate.ps1
 ```
 
+**Git Bash:**
+```bash
+python -m venv tc2004b_env
+source tc2004b_env/Scripts/activate
+```
+
 #### 3. Instalar dependencias
 ```bash
 pip install -r requirements.txt
